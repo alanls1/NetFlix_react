@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NetFlix_react/static/css/main.5edf0739.css",
+    "main.js": "/NetFlix_react/static/js/main.9e856ca5.js",
+    "index.html": "/NetFlix_react/index.html",
+    "main.5edf0739.css.map": "/NetFlix_react/static/css/main.5edf0739.css.map",
+    "main.9e856ca5.js.map": "/NetFlix_react/static/js/main.9e856ca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5edf0739.css",
+    "static/js/main.9e856ca5.js"
+  ]
+}
