@@ -1,6 +1,28 @@
 {
+  "homepage": "https://alanls1.github.io/NetFlix_react",
   "dependencies": {
+    
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }

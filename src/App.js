@@ -61,7 +61,7 @@ export default ()=>{
         </section>
 
         <footer>
-          Feito com pela B7web <br/>
+          Feito pela B7web <br/>
           Direitos de imagem para netFlix <br/>
           Dados pegos do site themoviedb.org
         </footer>
